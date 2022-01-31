@@ -1,0 +1,16 @@
+.requiredField:after {
+    content: " *";
+    color: red;
+  }
+.required::before {
+    content: "* ";
+    color: red;
+  }
+
+.error{
+    color:red;
+}
+.card{ 
+  background-color:rgba(0, 0, 0, 0.1) !important;
+  padding:10px 20px;
+}

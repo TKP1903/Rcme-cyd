@@ -1,0 +1,11 @@
+.modal-title{
+    display:flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+.modal-title span{ 
+    margin-left: 3px;
+    margin-top: -10px;
+}
+
